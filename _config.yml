@@ -3,8 +3,8 @@ subtitle: The development branch of INCARNET
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mvnmin.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 urls:
     - text: Home
